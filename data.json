@@ -1,0 +1,83 @@
+ [
+		{
+			"name": "Abacus",
+			"photo": "abacus.jpg",
+			"price": "$19.99",
+			"subCategory": "Math Toys",
+			"description": "The classic abacus for learning counting and basic arithmetic.",
+			"availableQuantity": 10,
+			"rating": 4.5
+		},
+		{
+			"name": "Alphabet Blocks",
+			"photo": "alphabet_blocks.jpg",
+			"price": "$24.99",
+			"subCategory": "Language Toys",
+			"description": "Colorful blocks with letters to help children learn the alphabet and spelling.",
+			"availableQuantity": 15,
+			"rating": 4.2
+		},
+		{
+			"name": "Microscope Kit",
+			"photo": "microscope.jpg",
+			"price": "$49.99",
+			"subCategory": "Science Toys",
+			"description": "A beginner's microscope kit to explore the microscopic world.",
+			"availableQuantity": 8,
+			"rating": 4.8
+		},
+		{
+			"name": "Counting Bears",
+			"photo": "counting_bears.jpg",
+			"price": "$12.99",
+			"subCategory": "Math Toys",
+			"description": "Colorful bears for learning counting, sorting, and basic math concepts.",
+			"availableQuantity": 20,
+			"rating": 4.7
+		},
+		{
+			"name": "Word Puzzle Game",
+			"photo": "word_puzzle.jpg",
+			"price": "$9.99",
+			"subCategory": "Language Toys",
+			"description": "A fun word puzzle game to enhance vocabulary and language skills.",
+			"availableQuantity": 12,
+			"rating": 4.3
+		},
+		{
+			"name": "Solar System Model",
+			"photo": "solar_system.jpg",
+			"price": "$34.99",
+			"subCategory": "Science Toys",
+			"description": "Build and explore the solar system with this interactive model.",
+			"availableQuantity": 5,
+			"rating": 4.9
+		},
+		{
+			"name": "Coding Robot",
+			"photo": "coding_robot.jpg",
+			"price": "$39.99",
+			"subCategory": "STEM Toys",
+			"description": "An interactive robot toy that teaches coding and problem-solving skills.",
+			"availableQuantity": 10,
+			"rating": 4.6
+		},
+		{
+			"name": "Magnetic Poetry Set",
+			"photo": "magnetic_poetry.jpg",
+			"price": "$14.99",
+			"subCategory": "Language Toys",
+			"description": "Create sentences and poems with this magnetic word set.",
+			"availableQuantity": 20,
+			"rating": 4.4
+		},
+        {
+			"name": "Chemistry Lab Set",
+			"photo": "chemistry_lab.jpg",
+			"price": "$59.99",
+			"subCategory": "Science Toys",
+			"description": "A complete chemistry lab set for conducting exciting scientific experiments.",
+			"availableQuantity": 6,
+			"rating": 4.9
+		}
+ ]
